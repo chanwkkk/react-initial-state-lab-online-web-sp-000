@@ -1,5 +1,5 @@
 // your ImageSlider code here!
-// eslint-disable-next-lineimport React, { Component } from 'react'
+import React, { Component } from 'react'
 
 export default class ImageSlider extends Component{
 
